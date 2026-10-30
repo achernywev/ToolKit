@@ -19,7 +19,6 @@ Pod::Spec.new do |s|
   s.source_files          = "Sources/**/*.{h,m,swift}"
   s.dependency 'SnapKit'
   s.dependency 'Swinject'
-  s.dependency 'SkeletonView'
   s.dependency 'KeychainAccess'
   s.dependency 'Mixpanel-swift'
   
